@@ -1,0 +1,16 @@
+{
+  "name": "Hello_React",
+  
+  "version": "1.0.0",
+  
+  "main": "index.js",
+  
+  "author": "Honglin Chen", 
+  
+  "license": "MIT",
+  
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
