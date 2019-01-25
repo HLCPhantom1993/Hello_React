@@ -1,5 +1,5 @@
 {
-  "name": "Hello_React",
+  "name": "hello_react",
   
   "version": "1.0.0",
   
@@ -11,6 +11,6 @@
   
   "dependencies": {
     "babel-preset-env": "1.5.2",
-    "babel-preset-react": "6.24.1"
+    "babel-preset-react": "6.26.0"
   }
 }
